@@ -46,7 +46,7 @@ const Footer = () => {
 
       <div className="footer-copyright">
         <p>
-          <a href="https://github.com/abhidevs" target="_blank">&copy; 2021 Abhidevs</a>. All
+          <a href="https://github.com/abhidevs" target="blank">&copy; 2021 Abhidevs</a>. All
           rights reserved.
         </p>
       </div>
